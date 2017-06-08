@@ -1,0 +1,19 @@
+{
+  "name": "palpitation.shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanlin66/palpitation.shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanlin66/palpitation.shop/issues"
+  },
+  "homepage": "https://github.com/yanlin66/palpitation.shop#readme"
+}
